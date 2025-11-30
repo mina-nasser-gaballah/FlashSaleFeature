@@ -94,7 +94,7 @@ The test suite includes 4 critical tests that verify system behavior under edge 
 
 ### Logs Location
 ```
-src/storage/logs/flash_sale_feature.log
+storage/logs/flash_sale_feature.log
 ```
 
 ### Viewing Logs
